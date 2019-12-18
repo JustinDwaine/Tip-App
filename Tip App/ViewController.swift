@@ -34,7 +34,6 @@ class ViewController: UIViewController {
         // update the tip and total labels
         tipLabel.text = String(format: "$%.2f", tip)
         totalLabel.text = String(format: "$%.2f", total)
-        
     }
 }
 
